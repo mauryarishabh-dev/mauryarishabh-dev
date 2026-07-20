@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_maurya22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-maurya-61b314346) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryarishabh8200@gmail.com) 
 
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Developer;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
 </div>
 
 
